@@ -49,6 +49,40 @@ const MidSection = () => {
           </p>
           <button className="bookADemo">Book A Demo</button>
         </div>
+
+        {/* -------------------------------------------- */}
+        <div className="cardDiv">
+          <p className="cardHeading">
+            There are 3 staps to get Worlds most visible plateform
+          </p>
+          <div className="line"></div>
+          <div className="cardDetails">
+            <div className="firstCard">
+              <p className="firstCardP">We will your Tech partner</p>
+              <p className="firstCardPara">
+                Get the data you need to make informed decisions. With
+                TransportSimple's real-time data-driven reports, you can track
+                scheduled repairs, overdue inspections, driver performance,
+              </p>
+            </div>
+            <div className="secondCard">
+              <p className="firstCardP">We will your Tech partner</p>
+              <p className="firstCardPara">
+                Get the data you need to make informed decisions. With
+                TransportSimple's real-time data-driven reports, you can track
+                scheduled repairs, overdue inspections, driver performance,
+              </p>
+            </div>
+            <div className="thirdCard">
+              <p className="firstCardP">We will your Tech partner</p>
+              <p className="firstCardPara">
+                Get the data you need to make informed decisions. With
+                TransportSimple's real-time data-driven reports, you can track
+                scheduled repairs, overdue inspections, driver performance,
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );
