@@ -121,6 +121,35 @@ const MidSection = () => {
             </div>
           </div>
         </div>
+
+        {/* ----------------------------------------------------------- */}
+
+        <div className="investorDiv">
+          <div >
+            {" "}
+            <p className="invesHead">
+              OUR <span style={{ color: "#4AA0FC" }}>INVESTOR</span>{" "}
+            </p>
+          </div>
+          <div className="investorDiv2">
+            <img
+              src="https://www.transportsimple.com/redesign/images/trance-one.png"
+              alt=""
+            />
+            <img
+              src="https://www.transportsimple.com/redesign/images/maa-tarini-steels-llp.png"
+              alt=""
+            />
+            <img
+              src="https://www.transportsimple.com/redesign/images/easyLine-trading.png"
+              alt=""
+            />
+            <img
+              src="https://www.transportsimple.com/redesign/images/primelink.png"
+              alt=""
+            />
+          </div>
+        </div>
       </div>
     </>
   );
