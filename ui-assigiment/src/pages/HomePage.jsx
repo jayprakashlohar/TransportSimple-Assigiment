@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar/Navbar";
 import MidSection from "../components/HomeMidSection/MidSection";
+import Footer from "../components/Footer/Footer";
 
 const HomePage = () => {
   return (
@@ -12,7 +13,11 @@ const HomePage = () => {
       {/* Mid section */}
 
       <div>
-        <MidSection/>
+        <MidSection />
+      </div>
+      {/* "Footer section" */}
+      <div>
+        <Footer />
       </div>
     </>
   );

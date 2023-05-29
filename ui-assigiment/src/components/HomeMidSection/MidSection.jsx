@@ -30,12 +30,24 @@ const MidSection = () => {
               you're earning on every trip. Keep tabs on the success of each
               journey, miles covered, fuel costs, and the proficiency of your
               drivers. Track all your pending job orders and increase your trip
-              efficiency. Send invoices within 30 seconds <br /> and speed up the cash
-              inflows!
+              efficiency. Send invoices within 30 seconds <br /> and speed up
+              the cash inflows!
             </p>
           </div>
 
           <div className="dataBox"></div>
+        </div>
+
+        <div className="demoBox">
+          <h2>Be more effiicent and profitable with TransportSimple</h2>
+          <p>
+            With TransportSimple, you'll have a one-stop shop for all your fleet
+            maintenance needs. Easily track and monitor your vehicle services &
+            expenses, build & maintain your inventory, get alerts for overdue
+            inspections & scheduled repairs and much more! Get in control of
+            your costs today!
+          </p>
+          <button className="bookADemo">Book A Demo</button>
         </div>
       </div>
     </>
