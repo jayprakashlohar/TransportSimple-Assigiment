@@ -83,6 +83,44 @@ const MidSection = () => {
             </div>
           </div>
         </div>
+
+        {/* --------------------------------------------- */}
+        <div className="workingDiv">
+          <h2 className="workingDivHeading">
+            BENEFITS OF WORKING WITH{" "}
+            <span style={{ color: "#4AA0FC" }}>US</span>{" "}
+          </h2>
+          <div className="workSection">
+            <div className="workImage">
+              <img
+                src="https://static.wixstatic.com/media/031d45_8b774dac1c6c4a0dad4d340b600d077c~mv2.jpg/v1/fill/w_980,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/13766133_5356723.jpg"
+                alt=""
+              />
+              <p className="workHeading">Industry export</p>
+            </div>
+            <div className="workImage">
+              <img
+                src="https://static.wixstatic.com/media/031d45_8b774dac1c6c4a0dad4d340b600d077c~mv2.jpg/v1/fill/w_980,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/13766133_5356723.jpg"
+                alt=""
+              />
+              <p className="workHeading">Industry export</p>
+            </div>
+            <div className="workImage">
+              <img
+                src="https://static.wixstatic.com/media/031d45_8b774dac1c6c4a0dad4d340b600d077c~mv2.jpg/v1/fill/w_980,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/13766133_5356723.jpg"
+                alt=""
+              />
+              <p className="workHeading">Industry export</p>
+            </div>
+            <div className="workImage">
+              <img
+                src="https://static.wixstatic.com/media/031d45_8b774dac1c6c4a0dad4d340b600d077c~mv2.jpg/v1/fill/w_980,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/13766133_5356723.jpg"
+                alt=""
+              />
+              <p className="workHeading">Industry export</p>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );
